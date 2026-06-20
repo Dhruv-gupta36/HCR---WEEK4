@@ -1,8 +1,6 @@
-# HCR - Week 4 Assignment: Temperature Dashboard
+# Temperature Dashboard
 
-This repository contains the solution for the Week 4 assignment, implementing a temperature monitoring dashboard using the **Hotaru framework**. The project utilizes HTTP for the dashboard frontend and MQTT for sensor data communication.
-
-## Assignment Answers
+Implementing a temperature monitoring dashboard using the **Hotaru framework**. The project utilizes HTTP for the dashboard frontend and MQTT for sensor data communication.
 
 ### 1. LCD Display Logic
 For letting the LCD display something, we require data flow **in** from the broker.
